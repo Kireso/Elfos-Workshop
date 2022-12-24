@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(57, 57, 52);
+    color: white;
+    font-family: Tahoma;
+}
+#duzy{
+    background-color: rgb(29, 29, 27); 
+    width: 70%;
+    margin: auto;
+}
+#logo{
+    background-color: rgb(29, 29, 27); 
+    height: 300px;
+}
+#gora1{
+    background-color: rgb(29, 29, 27); 
+    height: 400px;
+}
+#gora2{
+    background-color: rgb(29, 29, 27); 
+    height: 400px;
+}
+#srodek{
+    background-color: rgb(29, 29, 27); 
+    height: 600px;
+}
+#dol{
+    background-color: rgb(29, 29, 27); 
+    height: 250px;
+}
+#obrazek{
+    display: block;
+    height: 300px;
+    margin: auto;
+}
+#g1,#g2{
+    height: 360px;
+    width: 240px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+#g1{
+    float: left;
+}
+#g2{
+    float: right;
+    padding-right: 30px;
+}
+#g3,#g4,#g5,#g6,#g7{
+    height: 300px;
+    width: 200px;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+#s1,#s2,#s3,#s4,#s5,#s6,#s7,#s8{
+    height: 200px;
+    width: 300px;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color: white;
+    text-align: center;
+    text-indent: 50px;
+    padding: 10px 10px;
+    font-size: 20px;
+}
